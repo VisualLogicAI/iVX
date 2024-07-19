@@ -159,9 +159,12 @@ A real-time chat application with user authentication and message storage.
 - Real-time messaging
 - Message history
 
-### Project 4: [Blog Platform](https://ivx.cn/app-link-4)
+### Project 4: [Blog Platform](https://filea67c94ca42f6.v4.h5sys.cn/play/Dvk6qkVS)
 
-![Blog Platform](path/to/screenshot4.png)
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/Blog%20Platform.png" />
+</p>
+
 
 A blog platform allowing users to create, edit, and delete blog posts.
 
