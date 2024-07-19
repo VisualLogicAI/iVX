@@ -43,6 +43,10 @@ All added components are instantiated as objects in the Object Tree Panel. For e
   <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/Event%20Panel.png" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/Event%20Panel2.png" />
+</p>
+
 Another panel-based component is the "Data Flow" component, which pairs with a "Data Flow Panel." This panel includes:
 
 - **Start Nodes**
@@ -52,10 +56,6 @@ Another panel-based component is the "Data Flow" component, which pairs with a "
 - **Condition Nodes**
 - **Loop Nodes**
 - **Event Nodes** (internal to the data flow panel)
-
-<p align="center">
-  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/Event%20Panel2.png" />
-</p>
 
 The entire data flow diagram is a Directed Acyclic Graph (DAG), with data flowing between nodes. The output of one node (output data) is the input of the next connected node (input data). This process is similar to functional programming, where the output of one function serves as the input for the next.
 
