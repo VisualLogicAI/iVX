@@ -129,9 +129,11 @@ A simple Todo List application demonstrating basic CRUD operations.
 - Mark tasks as complete
 - Responsive design
 
-### Project 2: [E-Commerce Platform](https://ivx.cn/app-link-2)
+### Project 2: [E-Commerce Platform](https://shop.ivx.cn/?tid=548)
 
-![E-Commerce Platform](path/to/screenshot2.png)
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/E-Commerce%20Platform.png" />
+</p>
 
 A full-featured e-commerce platform with product listings, shopping cart, and checkout functionalities.
 
@@ -140,9 +142,15 @@ A full-featured e-commerce platform with product listings, shopping cart, and ch
 - User authentication
 - Order processing
 
-### Project 3: [Chat Application](https://ivx.cn/app-link-3)
+### Project 3: [Chat Application](https://shop.ivx.cn/?tid=886)
 
-![Chat Application](path/to/screenshot3.png)
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/Chat%20Application%20PC.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/Chat%20Application%20H5.png" />
+</p>
 
 A real-time chat application with user authentication and message storage.
 
@@ -162,9 +170,11 @@ A blog platform allowing users to create, edit, and delete blog posts.
 - Commenting system
 - User profiles
 
-### Project 5: [Inventory Management System](https://ivx.cn/app-link-5)
+### Project 5: [Inventory Management System](https://shop.ivx.cn/?tid=912)
 
-![Inventory Management System](path/to/screenshot5.png)
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/Inventory%20Management%20System.png" />
+</p>
 
 A system for managing product inventory, including tracking stock levels and orders.
 
