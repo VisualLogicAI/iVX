@@ -116,9 +116,11 @@ Each project folder contains:
 
 Explore the example applications below. Click the links to open the corresponding iVX applications on ivx.cn. After scanning the QR code and registering/logging in, you can directly view the applications in the editing state in the IDE.
 
-### Project 1: [Todo List App](https://ivx.cn/app-link-1)
+### Project 1: [Todo List App](https://shop.ivx.cn/?tid=888)
 
-![Todo List App](path/to/screenshot1.png)
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/Todo%20List%20App.png" />
+</p>
 
 A simple Todo List application demonstrating basic CRUD operations.
 
