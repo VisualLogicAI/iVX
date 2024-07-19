@@ -12,6 +12,10 @@ iVX is a versatile graphical programming language accompanied by a comprehensive
 
 iVX can generate front-end code in Vue or React frameworks and back-end code in the Java SpringBoot framework.
 
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/develop.png" />
+</p>
+
 ## Features
 
 - **Component-Based Development**: Develop front-end (Vue/React) and back-end (Java SpringBoot) applications using a rich library of components.
@@ -35,6 +39,10 @@ The iVX IDE includes the following panels:
 
 All added components are instantiated as objects in the Object Tree Panel. For example, pages and containers within pages, and elements within containers. Any component is designed as an object, including "Attributes," "Trigger Conditions," and "Methods/Functions." In the Object Tree, any object can have an "Event" component attached, which opens an "Event Panel" upon clicking. This panel contains "Condition Blocks," "Action Blocks," and "Loop Blocks." By combining these blocks, you can achieve Turing-complete logic expressions, typically based on triggered logic, such as an operation occurring on object A (trigger condition) leading to function execution on object B, where B may include A. The "Event Panel" allows the addition of multi-layer "Condition Blocks," "Action Blocks," and "Loop Blocks," offering flexibility akin to code but without syntax.
 
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/Event%20Panel.png" />
+</p>
+
 Another panel-based component is the "Data Flow" component, which pairs with a "Data Flow Panel." This panel includes:
 
 - **Start Nodes**
@@ -46,6 +54,10 @@ Another panel-based component is the "Data Flow" component, which pairs with a "
 - **Event Nodes** (internal to the data flow panel)
 
 The entire data flow diagram is a Directed Acyclic Graph (DAG), with data flowing between nodes. The output of one node (output data) is the input of the next connected node (input data). This process is similar to functional programming, where the output of one function serves as the input for the next.
+
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/Workflow.png" />
+</p>
 
 ## iVX Components
 
@@ -71,6 +83,18 @@ iVX offers a vast array of components (1000+):
 - Timing services
 - Third-party interfaces
 - AI model back-end components
+
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/3D.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/time.png" />
+</p>
+
+<p >
+  <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/journal.png" />
+</p>
 
 ## Component-Based Programming in iVX IDE
 
