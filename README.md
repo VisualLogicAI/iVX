@@ -2,7 +2,11 @@
   <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/iVXlogo.png" />
 </p>
 
-[中文](https://github.com/VisualLogicAI/iVX/blob/main/readme/README_zh.md) |  [英文](ivx/README.md)
+<div align="center">
+  
+英文 | [中文](https://github.com/VisualLogicAI/iVX/blob/main/readme/README_zh.md) 
+ 
+</div>
 
 # iVX - Visual Programming for Everyone
 
