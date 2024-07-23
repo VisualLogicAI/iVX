@@ -2,6 +2,12 @@
   <img src="https://github.com/VisualLogicAI/iVX/blob/main/image/iVXlogo.png" />
 </p>
 
+<div align="center">
+  
+[英文](https://github.com/VisualLogicAI/iVX/blob/main/README.md) | 中文
+ 
+</div>
+
 # iVX - 适合所有人的可视化编程
 
 欢迎来到iVX项目！iVX 是一种多功能图形编程语言，具有集成开发环境 （IDE），专为基于组件的开发而设计。该存储库包括 iVX 生成的各种应用程序，以及用于前端和后端的完整源代码，用于教育目的。
