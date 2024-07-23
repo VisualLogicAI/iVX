@@ -4,7 +4,7 @@
 
 <div align="center">
   
-英文 | [中文](https://github.com/VisualLogicAI/iVX/blob/main/readme/README_zh.md) 
+English | [Chinese](https://github.com/VisualLogicAI/iVX/blob/main/readme/README_zh.md) 
  
 </div>
 
